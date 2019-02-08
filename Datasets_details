@@ -1,0 +1,17 @@
+This data set was collected from: https://www.kaggle.com/zusmani/uberdrives. Data set size is approximately equal to 45 Mb
+Column Name	Description
+	
+1. Date: It describes the date when the cab was	booked.
+2. Ride Duration: It describes the time duration of the ride
+3. Days: It describes whether the day was week day or weekend
+4. Category	:	It describes if the type for which cab was booked i.e. whether it was personal or business.	
+5.	Start	:	It describes the starting area of ride.
+6.	Stop:	It describes the area where the ride ends.
+7.	Mile:	It describes total number of miles travelled in a ride.
+8.	Purpose:	It describes the purpose of travel whether it is for entertainment, supplies or meeting.
+9.	Gender:	It describes the gender of the personbooking the cab.
+10. Status: It describes the status of the cab whether it was cancelled, Delay or On-time.	
+11. Rider’s Age: It describes the age of the rider.	
+12. Fare: It describes the price for each ride.	
+13. Peak hours: It describes peak hours when cabs are	booked the most.
+			
